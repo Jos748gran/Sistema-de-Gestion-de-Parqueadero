@@ -26,6 +26,7 @@ En el presente diagrama se hicieron algunos cambios significativos como:
 - Se agrega el enum Estado de plaza de parqueo para poder saber si la plaza esta esta ocupada o desocupada
 - Se agrega atributos a bicicleta y automovil
 - Se agrega las clases administrador cajero y supervisor que heredan de empleado y los mismos que tienen una interfaz gestor de operaciones
+- Se hace algunos cambios en las multiplicidades
 
 # Clases utilizadas
 - [Administrador](https://github.com/Carlosjosu/Sistema-de-Gestion-de-Parqueaderos/blob/master/Sistema%20De%20Gestion%20De%20Parqueadero/src/Administrador.java)
