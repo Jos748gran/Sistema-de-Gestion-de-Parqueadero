@@ -17,7 +17,7 @@ Utilizar un repositorio GitHub
 Se adjunta el diagrama UML 
 
 
-!![Class Diagram1](https://github.com/user-attachments/assets/b1250dea-2192-48f1-8c51-aed467fa31da)
+![Class Diagram1](https://github.com/user-attachments/assets/5653e3c1-352f-47a0-aed6-eef1c3bcb059)
 
 > Diagrama de clases-UML del Sistema de Parqueaderos
 
